@@ -10,7 +10,7 @@
 	<version>1.0-SNAPSHOT</version>
 
 	<properties>
-		<tapestry.version>5.2.6</tapestry.version>
+		<tapestry.version>5.3.7</tapestry.version>
 	</properties>
 
 	<modules>
